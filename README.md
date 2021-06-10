@@ -4,7 +4,7 @@
 1. Python 3
 2. Install requirements: `pip install -r requirements.txt`
 # Usage
-1. Download [weight](https://drive.google.com/file/d/1bm7yOzl0xA4BaEFkwobHlzefNeDJCqM7/view?usp=sharing) to weights folder and unzip.
+1. Download [weight](https://drive.google.com/file/d/1bm7yOzl0xA4BaEFkwobHlzefNeDJCqM7/view?usp=sharing) to 'weights' folder and unzip.
 2. Run test.py: `python test.py`
 3. The terminal will ask you to input image path, then the code will give you the predicted action level for each person in the image.
 # For example:
